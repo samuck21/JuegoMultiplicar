@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adaptive_banner_ad_unit_id">ca-app-pub-8520171005163371/7756105478</string>
+    <string name="adaptive_recompensado_ad_unit_id">ca-app-pub-8520171005163371/6443023806</string>
+    <string name="adaptive_intersticial_ad_unit_id">ca-app-pub-8520171005163371/8043880086</string>
+
+    <string name="app_name">Tabelle di moltiplicazione</string>
+    <string name="ativity_inicio_uno">Gioca</string>
+    <string name="ativity_inicio_dos">Impostazioni</string>
+    <string name="ativity_inicio_tres">Informazioni</string>
+    <string name="ativity_inicio_cuatro">Esci</string>
+    <string name="descripccion">Objeto View</string>
+    <string name="title_activity_configuracion_de_app">ConfiguracionDeApp</string>
+    <string name="star_game_mode">Punteggio:</string>
+    <string name="star_game_mode_dos">Corretto</string>
+    <string name="star_game_mode_tres">Sbagliato</string>
+    <string name="star_game_mode_cuatro">Riavvia</string>
+    <string name="star_game_mode_cinco">Vuoi riavviare il gioco?</string>
+    <string name="star_game_mode_seis">Accetta</string>
+    <string name="star_game_mode_siete">Annulla</string>
+    <string name="star_game_mode_ocho">Esci</string>
+    <string name="star_game_mode_nueve">Vuoi uscire dal gioco?</string>
+    <string name="scores_uno">Punteggio</string>
+    <string name="scores_dos"> Eccellente </string>
+    <string name="scores_tres"> Sorprendente </string>
+    <string name="scores_cuatro"> Buono </string>
+    <string name="scores_cinco"> Rivedi di nuovo </string>
+    <string name="scores_seis"> Continua e salva </string>
+    <string name="scores_siete"> 10 </string>
+    <string name="hardrandom_uno">Punteggi migliori</string>
+    <string name="appsettings_uno">Cancella dati in successione </string>
+    <string name="appsettings_dos">Cancella i dati dalla modalità casuale </string>
+    <string name="appsettings_tres">Cancella i dati dalla modalità hard random </string>
+    <string name="appsettings_cuatro">Elimina tutti i dati </string>
+    <string name="appsettings_cinco">Elimina</string>
+    <string name="appsettings_seis">Cancella dati</string>
+    <string name="mode_juego">modalità successiva </string>
+    <string name="mode_juego_dos">modalità casuale </string>
+    <string name="mode_juego_tres">modalità casuale hard </string>
+    <string name="seleccion_table_one">Tabella di #1</string>
+    <string name="seleccion_table_two">Tabella di #2</string>
+    <string name="seleccion_table_three">Tabella di #3</string>
+    <string name="seleccion_table_four">Tabella di #4</string>
+    <string name="seleccion_table_five">Tabella di #5</string>
+    <string name="seleccion_table_six">Tabella di #6</string>
+    <string name="seleccion_table_seven">Tabella di #7</string>
+    <string name="seleccion_table_eigth">Tabella di #8</string>
+    <string name="seleccion_table_nine">Tabella di #9</string>
+    <string name="seleccion_table_ten">Tabella di #10</string>
+    <string name="decripcion">descripcion view</string>
+    <string name="star_game">10s</string>
+    <string name="star_game_dos">10</string>
+    <string name="star_game_tres">10x10=</string>
+    <string name="salir_app">Esci</string>
+    <string name="salir_app_dos">Vuoi uscire dall app?</string>
+    <string name="score">Vuoi uscire, i progressi andranno persi?</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Toast">non c è connessione a Internet</string>
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="app.ejemplo.juegotablas">
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <application
+        android:hardwareAccelerated="true"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.JuegoTablas">
+        <activity android:name=".AppSettings"
+            android:exported="false"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name=".StartHardRandomMode"
+            android:exported="false" android:screenOrientation="portrait"/>
+        <activity android:name=".HardRandom" android:exported="false" android:screenOrientation="portrait" />
+        <activity android:name=".StartGameModeRandom" android:exported="false" android:screenOrientation="portrait" />
+        <activity android:name=".Scores"  android:exported="false" android:screenOrientation="portrait"/>
+        <activity android:name=".StartGameMode" android:exported="false" android:screenOrientation="portrait" />
+        <activity android:name=".MultiplicationTables" android:exported="false" android:screenOrientation="portrait" />
+        <activity android:name=".SeleccionTabla"  android:exported="false" android:screenOrientation="portrait"/>
+        <activity android:name=".ConfiguracionDeApp"
+            android:label="@string/title_activity_configuracion_de_app" android:exported="false"  android:screenOrientation="portrait" />
+        <activity android:name=".DetallesDeVersion" android:exported="false" android:screenOrientation="portrait" />
+        <activity android:name=".ModoDeJuego" android:exported="false" android:screenOrientation="portrait" />
+        <activity android:name=".MainActivity"
+            android:exported="true" android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-8520171005163371~3892469396"/>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

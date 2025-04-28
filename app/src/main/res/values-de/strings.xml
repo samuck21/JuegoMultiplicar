@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="adaptive_banner_ad_unit_id">ca-app-pub-8520171005163371/7756105478</string>
+    <string name="adaptive_recompensado_ad_unit_id">ca-app-pub-8520171005163371/6443023806</string>
+    <string name="adaptive_intersticial_ad_unit_id">ca-app-pub-8520171005163371/8043880086</string>
+
+    <string name="app_name">Multiplikationstabellen</string>
+    <string name="ativity_inicio_uno">Spielen</string>
+    <string name="ativity_inicio_dos">Einstellungen</string>
+    <string name="ativity_inicio_tres">Über</string>
+    <string name="ativity_inicio_cuatro">Ausgang</string>
+    <string name="descripccion">Ansicht-Objekt</string>
+    <string name="title_activity_configuracion_de_app">ConfiguracionDeApp</string>
+    <string name="star_game_mode">Punktezahl:</string>
+    <string name="star_game_mode_dos">Richtig</string>
+    <string name="star_game_mode_tres">Falsch</string>
+    <string name="star_game_mode_cuatro">Neustart</string>
+    <string name="star_game_mode_cinco">Möchtest du das Spiel neu starten?</string>
+    <string name="star_game_mode_seis">Akzeptieren</string>
+    <string name="star_game_mode_siete">Abbrechen</string>
+    <string name="star_game_mode_ocho">Beenden</string>
+    <string name="star_game_mode_nueve">Möchtest du das Spiel beenden?</string>
+    <string name="scores_uno">Punktezahl</string>
+    <string name="scores_dos"> Ausgezeichnet </string>
+    <string name="scores_tres"> Überraschend</string>
+    <string name="scores_cuatro"> Gut </string>
+    <string name="scores_cinco"> Nochmals überprüfen </string>
+    <string name="scores_seis"> Weiter und speichern </string>
+    <string name="scores_siete"> 10 </string>
+    <string name="hardrandom_uno">Highscores</string>
+    <string name="appsettings_uno">Daten nacheinander löschen </string>
+    <string name="appsettings_dos">Daten aus dem Zufallsmodus löschen </string>
+    <string name="appsettings_tres">Daten aus dem harten Zufallsmodus löschen </string>
+    <string name="appsettings_cuatro">Alle Daten löschen </string>
+    <string name="appsettings_cinco">Löschen</string>
+    <string name="appsettings_seis">Daten löschen</string>
+    <string name="mode_juego">aufeinanderfolgender Modus </string>
+    <string name="mode_juego_dos">Zufallsmodus </string>
+    <string name="mode_juego_tres">harter Zufallsmodus</string>
+    <string name="seleccion_table_one">Tabelle von # 1</string>
+    <string name="seleccion_table_two">Tabelle von # 2</string>
+    <string name="seleccion_table_three">Tabelle von # 3</string>
+    <string name="seleccion_table_four">Tabelle von # 4</string>
+    <string name="seleccion_table_five">Tabelle von # 5</string>
+    <string name="seleccion_table_six">Tabelle von # 6</string>
+    <string name="seleccion_table_seven">Tabelle von # 7</string>
+    <string name="seleccion_table_eigth">Tabelle von # 8</string>
+    <string name="seleccion_table_nine">Tabelle von # 9</string>
+    <string name="seleccion_table_ten">Tabelle von # 10</string>
+    <string name="decripcion">descripcion view</string>
+    <string name="star_game">10s</string>
+    <string name="star_game_dos">10</string>
+    <string name="star_game_tres">10x10=</string>
+    <string name="salir_app">Beenden</string>
+    <string name="salir_app_dos">Möchtest du die App beenden?</string>
+    <string name="score">Möchtest du beenden, geht der Fortschritt verloren?</string>
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Toast">Es besteht keine Internetverbindung</string>
+
+</resources>
